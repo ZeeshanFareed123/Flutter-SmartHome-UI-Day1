@@ -1,7 +1,7 @@
 # flutter_day1_ui_smart_home
 
 A new Flutter application.
-<img src="assets/images/img1.jpg" width="300" height="300" >
+<img src="assets/images/img1.jpg" width="200" height="300" >
 
 
 ## Getting Started
