@@ -1,6 +1,7 @@
 # flutter_day1_ui_smart_home
 
 A new Flutter application.
+![](assets/images/bedroom.jpg)
 
 ## Getting Started
 
